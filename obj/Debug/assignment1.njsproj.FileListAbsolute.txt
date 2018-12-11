@@ -1,0 +1,2 @@
+C:\projects\practice\FP_drivers\Learning\assignment1\assignment1\obj\Debug\assignment1.njsproj.CoreCompileInputs.cache
+C:\projects\practice\FP_drivers\Learning\assignment1\assignment1\bin\Microsoft.NodejsTools.WebRole.dll
